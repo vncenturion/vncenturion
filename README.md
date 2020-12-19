@@ -7,9 +7,9 @@ So i decided: I should get a Computer Science bachelor's degree and try to devel
 Note that I'm still learning new programming languages and computer concepts, so keep your expectations low while I search for knowledge at the university. And feel free to collaborate on projects, to chat or share ideas.
 
 :pushpin: Interested in:
-* Management systems (Quality and Occupational Safety e Health)
-* Building construction planning and management
-* Building information modeling
-* Statistical process control
-* Machine learning
-* Artificial intelligence
+* Management systems (Quality and Occupational Safety e Health);
+* Building construction planning and management;
+* Building information modeling;
+* Statistical process control;
+* Machine learning;
+* Artificial intelligence.
