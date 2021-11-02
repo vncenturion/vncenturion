@@ -1,4 +1,3 @@
-![vncenturion Github](vncenturionGITHUB.png)
 # :construction_worker: Vinicius Centurion
 Hi, I'm Centurion. A civil engineer passionate about programming, automation, IoT. I'm always looking for new ways to make everyday activities easier for my co-workers, employees and suppliers.
 
