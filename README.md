@@ -1,5 +1,5 @@
 # :construction_worker: Vinicius Centurion
-Hi, I'm Centurion. A civil engineer passionate about programming, automation, IoT. I'm always looking for new ways to make everyday activities easier for my co-workers, employees and suppliers.
+Hi, I'm Centurion. A civil/ohs/industrial engineer and attorney passionate about programming, automation, IoT. I'm always looking for new ways to make everyday activities easier for my co-workers, employees and suppliers.
 
 So I decided: I should get a Computer Science bachelor's degree and try to develop applications that make construction management tasks less time consuming and stressful.
 
@@ -12,3 +12,10 @@ Note that I'm still learning new programming languages and software development 
 * Statistical process control;
 * Machine learning;
 * Artificial intelligence.
+
+:pushpin: Skills:
+* Java
+* Python/Django
+* Html/Css/JS/BS5
+* C/C++
+* SQL
