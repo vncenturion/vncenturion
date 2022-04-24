@@ -16,6 +16,7 @@ Note that I'm still learning new programming languages and software development 
 :pushpin: Skills:
 * Java
 * Python/Django
+* PHP
 * Html/Css/JS/BS5
 * C/C++
 * SQL
