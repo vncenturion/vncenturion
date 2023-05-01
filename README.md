@@ -3,6 +3,8 @@ Hi, I'm Vinicius Centurion. A civil/ohs/industrial engineer and attorney (I unde
 
 During the COVID-19 lockdown in Brazil, I began studying two IT degrees - computer science and computer networks. I am set to graduate from both of these degrees this year. Additionally, I started a Master's degree in IT this year (It really seems that I have a huge love for the university, doesn't it?) and have been conducting research on AI applications in building construction (here is a theme where I can take advantage of some knowledge in different areas), as well as the automation of construction inspection routines.
 
+I have experience in developing systems for the administrative sectors of the Brazilian Judiciary. Mostly using django/python and postgres. Also, developing dynamic websites, front and back. Recording videos and writing user guides, as well as documenting the software. Unfortunately, most of it cannot be shared here, but I intend to develop simplified versions that are similar to those originally developed by me, and that can be shared without major copyright or security issues.
+
 Note feel free to collaborate on projects, to chat (PT, EN, ES, FR) or share ideas.
 
 :pushpin: Interested in:
